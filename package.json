@@ -1,11 +1,14 @@
 {
   "name": "cli-boilerplate",
   "version": "0.0.0",
-  "description": "",
+  "description": "add html boilerplate to you clipboard for pasting wins",
   "main": "index.js",
+  "bin": {
+    "boilme": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Jessica Lord",
+  "license": "BSD"
 }
