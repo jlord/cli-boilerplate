@@ -1,7 +1,7 @@
 cli-boilerplate
 ===============
 
-This is a super simple command line module that copies HTML5 boilerplate to you clipboard so that you can open a new file, paste and :boom:.
+This is a super simple command line module that copies HTML5 boilerplate to your clipboard so that you can open a new file, paste and :boom:.
 
 _Currently just works on Macs or things that have `pbcopy`_
 
@@ -68,7 +68,7 @@ Open it up in your text editor and edit the `boilerplate.html` file as you'd lik
 $ cd cli-boilerplate
 ```
 
-Link this version to your system so that Node uses it when you run `boilme`. From inside the `cli-boilerplate` directory and:
+Link this version to your system so that Node uses it when you run `boilme`. From inside the `cli-boilerplate` directory link it:
 
 ```bash
 $ npm link

@@ -1,7 +1,15 @@
 {
   "name": "cli-boilerplate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "add html boilerplate to you clipboard for pasting wins",
+  "keywords": ["HTML5", "boilerplate", "cli", "command line"],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jlord/cli-boilerplate.git"
+  },
+  "bugs": {
+    "url": "http://github.com/jlord/cli-boilerplate/issues"
+  },
   "main": "index.js",
   "bin": {
     "boilme": "./index.js"
