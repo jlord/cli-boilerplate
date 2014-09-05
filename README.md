@@ -32,7 +32,7 @@ When you paste you get:
 
 The boilerplate included here is adapted from the lovely @thefoxis's repository [thefoxis/html-boilerplate](https://github.com/thefoxis/html-boilerplate).
 
-**You can [use it](#use-it) as-is or [adapt it](#use-it) to your own boilerplate needs**
+**You can [use it](#use-it) as-is or [adapt it](#adapt-it) to your own boilerplate needs**
 
 ## Use it
 
