@@ -1,6 +1,6 @@
 {
   "name": "cli-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "add html boilerplate to you clipboard for pasting wins",
   "keywords": ["HTML5", "boilerplate", "cli", "command line"],
   "repository": {
