@@ -1,3 +1,7 @@
+**NOTE**
+
+_This branch `tutorial` is the first version of `cli-boilerplate` and is kept here because I wrote a tutorial that walks through building this. The branch `master` has since change, more features!, and so it doesn't match up with the tutorial anymore, thus, I've preserved that state here in this branch._
+
 cli-boilerplate
 ===============
 
