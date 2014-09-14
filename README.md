@@ -3,8 +3,6 @@ cli-boilerplate
 
 This is a super simple command line module that copies HTML5 boilerplate to your clipboard so that you can open a new file, paste and :boom:.
 
-## To Pasteboard
-
 _Currently just works on Macs or things that have `pbcopy`_
 
 ```bash
@@ -31,16 +29,6 @@ When you paste you get:
   </body>
 </html>
 ```
-
-## To File
-
-_Should work on all systems._
-
-```bash
-$ boilme -f FILENAME
-```
-
-Writes the boilerplate to the filename you provide. Relative paths are resolved to the directory in which you run the script.
 
 The boilerplate included here is adapted from the lovely @thefoxis's repository [thefoxis/html-boilerplate](https://github.com/thefoxis/html-boilerplate).
 
