@@ -3,6 +3,8 @@ cli-boilerplate
 
 This is a super simple command line module that copies HTML5 boilerplate to your clipboard so that you can open a new file, paste and :boom:.
 
+_A post about how this module was developed is [here](http://jlord.github.io/blog/simple-node-module.html) and the corresponding branch is `tutorial`, [here](https://github.com/jlord/cli-boilerplate/tree/tutorial)._
+
 ## To Pasteboard
 
 _Currently just works on Macs or things that have `pbcopy`_
